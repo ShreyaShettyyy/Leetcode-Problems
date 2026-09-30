@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [3903-smallest-stable-index-i](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -26,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
