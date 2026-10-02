@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [3903-smallest-stable-index-i](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
@@ -53,9 +55,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
