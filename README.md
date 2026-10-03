@@ -41,16 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Two Pointers
 |  |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
