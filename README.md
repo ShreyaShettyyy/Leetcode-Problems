@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3903-smallest-stable-index-i](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
