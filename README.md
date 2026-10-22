@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
 ## Minimax
 |  |
 | ------- |
@@ -107,4 +108,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
