@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3903-smallest-stable-index-i](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Minimax
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
@@ -130,9 +133,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
