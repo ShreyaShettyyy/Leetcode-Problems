@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
