@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaShettyyy/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
